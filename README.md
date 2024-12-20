@@ -1,1 +1,3 @@
-# SubirLigalol
+# SubirLigaLol
+
+Vite React Tailwind
